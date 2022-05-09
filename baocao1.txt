@@ -1,0 +1,36 @@
+pp 
+nhìn máy chiếu và nói
+slide + báocasos
+
+10
+
+
+chủ đề ... + lên kế hoạch +  2p
+
+thu thập phân tích yêu cầu + biểu đồ phân câp chức năng + biểu đồ usecase (không đọ mô tả, đặc tả )
+
+đặc tả use case + biểu đồ lớp 30s-1p
+
+1 use case co nhieu luong
+moi luong 1 test case
+moi test case co nhieu data test khác nhau
+quicktesst vs auto click
+
+
+đăng nhập
+bộ test1:
+tk: long123
+mk: 1234567
+
+bộ test2:
+tk: long123
+mk: 1234567@@
+
+bộ test2:
+tk: long1234
+mk:12345
+không có trong CSDL
+
+4 luồng 2 bộ test 
+
+đăng ký 4 luồn
